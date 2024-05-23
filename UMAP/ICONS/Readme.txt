@@ -1,1 +1,1 @@
-Icons to be used in webmap
+Icons for webmap
